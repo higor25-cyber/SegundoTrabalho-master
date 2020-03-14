@@ -1011,6 +1011,7 @@ footer .social-links li:first-child { margin-left: 0; }
 .image:hover{
    -webkit-filter:grayscale(0%);
    transition: 1.5s;
+   border-radius: 50%;
 }
 .image2{
    image-position: align;
